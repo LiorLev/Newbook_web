@@ -2,8 +2,7 @@
 	margin-top: -19%;
 	width: 70%;
 	height: 100%;
-	position:relative;
-	margin-left: 20%;
+	margin-left: 25%;
 	font-size: 1.5vw;
 }
 
@@ -13,46 +12,46 @@
 
 }
 
-.proj {
+/*.proj {
 	width: 70%;
 	height: 3%;
 	margin-left: 7%;
 	background-color: #336666;
 	margin-bottom: 2%;
 	text-align: center;
-}
+	}*/
 
-a{
-	text-decoration: none;
-	color: white;
-}
+	a{
+		text-decoration: none;
+		color: white;
+	}
 
-#main{
+/*#main{
 	margin-top: 3%;
 	margin-left: 8%;
 	width: 100%;
-	height: 200%;
+	height: 900px;
 }
 .box{
 	margin-top: 3%;
 	width:100%;
-	height: 30%;
-	margin-bottom: 6%;
+	height: 100%;
+
 }
 .directors {
 	background-color: black;
 	width: 20%;
-	height: 30%;
+	height: 20%;
 	float: left;
 	margin-right: 12%;
 }
-#bottom{
-	margin-top: -20%;
+.bottom{
+	margin-top: -10%;
 }
 
 .desc{
 	width: 20%;
-	height: 50%;
+	height: 30%;
 	float: left;
 	margin-right: 12%;
 	text-align: center;
@@ -63,27 +62,45 @@ a{
 
 .expl{
 	text-align: left;
-
+	margin-bottom: -50%;
 }
 
 .clear{
 	clear:both;
-}
-
-hr{
-	margin-left:-3%;
-	width: 90%;
-}
-
-hr #top{
-	margin-left: 20%;
+	height: 12%;
 }
 
 .projects{
 	width:100%;
-	height:100%;
+	height:auto;
 	float:left;
 }
+.intern_bottom{
+	height: 10%;
+}
+.top{
+	margin-left: 9.5%;
+	width: 80%;
+	}*/
 
+	#cc{
+		text-align: center;
+		font-size: 0.7vw;
+		margin-bottom: 5%;
+	}
+	#cc a{
+		font-weight: bold;
+		color: black;
+	}
 
+	hr{
+		align:center;
+	}
 
+	.categories {
+		width: 70%;
+		height: 30%;
+		background-color: #336666;
+		text-align: center;
+		margin-bottom: 2%;
+	}

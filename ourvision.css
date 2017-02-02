@@ -1,7 +1,7 @@
 #text{
 	margin-top: -19%;
 	width: 60%;
-	height: 50%;
+	height: 107%;
 	position:relative;
 	margin-left: 25%;
 	font-size: 1.5vw;
@@ -28,3 +28,14 @@ a{
 	text-decoration: none;
 	color: white;
 }
+#cc{
+	text-align: center;
+	font-size: 0.7vw;
+	margin-bottom: 5%;
+
+}
+#cc a{
+	font-weight: bold;
+	color: black;
+}
+
