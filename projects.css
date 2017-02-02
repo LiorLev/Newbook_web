@@ -3,13 +3,19 @@
 	width: 60%;
 	height: 50%;
 	position:relative;
-	margin-left: 20%;
+	margin-left: 25%;
 	font-size: 1.5vw;
+}
+
+#text a{
+	font-weight: bold;
+	color:black;
 }
 
 .par {
 	
 	font-size: 1vw;
+	line-height: 2em;
 
 }
 
@@ -23,7 +29,3 @@
 	text-align: center;
 }
 
-a{
-	text-decoration: none;
-	color: white;
-}
